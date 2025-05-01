@@ -8,7 +8,7 @@
   
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with sigma-md-",
+      "description": "Put your SESSION_ID here. Make sure it starts with haiko-md-",
       "value": "",
       "required": true
     },
