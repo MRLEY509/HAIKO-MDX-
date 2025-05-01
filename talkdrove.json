@@ -1,0 +1,26 @@
+{
+  "bot-name": "HAIKO-MDX",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝙼𝚈𝚂𝚃𝙸𝙲 𝙷𝙰𝙸𝙺𝙾",
+  "logo": "https://files.catbox.moe/pcb7ya.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://muzansspair23.onrender.com/",
+  "owner-verification": "lespurgateursigma@gmail.com",
+  
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your SESSION_ID here. Make sure it starts with sigma-md-",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc)",
+      "value": ".",
+      "required": true
+    },
+    "MODE": {
+      "description": "Bot mode can be public, private, inbox, or groups (in lowercase) (e.g., public)",
+      "value": "private",
+      "required": true
+    }
+  }
+}
