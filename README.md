@@ -109,7 +109,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON TALKDROVE</h3>
 <h6 align-"center">
-*❄️ Deploy SIGMA-MDX On TALKDROVE For Free !*
+*❄️ Deploy HAIKO-MDX On TALKDROVE For Free !*
 
 > `Steps to deploy`
 
@@ -120,7 +120,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 1. Go to https://youtu.be/ydToeigZr34?feature=shared you watch the deployment video carefully 
 > CREDITS HAIKO MD🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ MUZAN SIGMA*</h6>
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ MYSTIC HAIKO*</h6>
 
 </details>
 
